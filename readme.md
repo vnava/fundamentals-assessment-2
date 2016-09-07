@@ -1,6 +1,6 @@
 #Functions Self Assessment
 
-** We have defined an array variable `myArray` for you
+** We have defined an array variable `myArray` for you **
 
 ### printAll()
 * [ ] create a function called "printAll" that takes an array as an argument
