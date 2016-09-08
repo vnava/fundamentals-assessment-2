@@ -48,7 +48,7 @@ You are expected to at least start every problem. As with any test, you make the
 Solutions are submitted via pushing your code to your OWN FORKED repository. We will take it from there.
 
 ##Instructions :
-**We have defined an array variable `myArray` for you in the JS file. Use that, and not the array or values in the examples below**
+**We have defined an array variable `myArray` for you in the JS file. Do not replace it with the examples below**
 
 ### printAll()
 * [ ] create a function called "printAll" that takes an array as an argument
