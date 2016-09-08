@@ -75,7 +75,7 @@ myArray
 
 Example:
 ```javascript
-myArray = ["abc", 2, "three", 4, true, false, true];
+myArray = ["abc", 2, "three", 4, "fifth value", "fifth index", "Beyonce"];
 longArray(myArray); //true
 ```
 
