@@ -13,7 +13,12 @@
 
 ## Grading Outline
 
-Functions Self Assessment : 
+printAll() :
+
+longArray() :
+
+countNums() :
+
 
 ## Self-Grading Process
 
